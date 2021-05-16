@@ -1,0 +1,11 @@
+https://www.opencompute.org/
+https://www.opencompute.org/projects/data-center-facility
+https://www.opencompute.org/projects/rack-and-power
+https://www.opencompute.org/projects/hardware-management
+https://www.openbmc.org/
+https://www.opencompute.org/projects/server
+https://www.opencompute.org/projects/storage
+http://files.opencompute.org/oc/public.php?service=files&t=62279808dbea0cf380632c3042246979&path=/V2
+https://www.opencompute.org/projects/networking
+http://onie.org/
+https://www.opencompute.org/wiki/Networking/SpecsAndDesigns
