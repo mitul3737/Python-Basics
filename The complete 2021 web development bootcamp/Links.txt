@@ -1,0 +1,10 @@
+HTML:
+best documentation : https://devdocs.io/
+Book : https://www.gutenberg.org/ebooks/1661
+Mojila documentation : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+Emment Cheat sheet : https://docs.emmet.io/cheat-sheet/
+Unicode : https://unicode-table.com/en/
+Mojile Developer Network: https://developer.mozilla.org/en-US/
+MDNhtml documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Elementhttps://developer.mozilla.org/en-US/docs/Web/HTML/Element
+PHOTO BUCKET: https://app.photobucket.com/explore
+Image crop : https://crop-circle.imageonline.co/
